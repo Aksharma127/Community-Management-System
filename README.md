@@ -183,7 +183,7 @@ Enter group description: A group for Java enthusiasts.
 1. **Clone the repository**:
    - Clone this repository to your local machine using Git:
    ```bash
-   git clone https://github.com/yourusername/community-management-system.git
+   git clone https://github.com/Aksharma127/Community-Management-System.git
    ```
 
 2. **Compile the code**:
