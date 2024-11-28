@@ -64,7 +64,7 @@ This project was developed by a team of 6 members, each contributing to differen
 
 1. **Hitesh**: 
    - Worked on creating the **User** and **Admin** classes.
-   - Helped define the structure for user authentication and role management.
+   - Helped define the structure for user and Admin role management.
 
 2. **Abhay**:
    - Contributed to the **Admin** and **UserH** class designs.
@@ -80,11 +80,11 @@ This project was developed by a team of 6 members, each contributing to differen
 
 5. **Udit**:
    - Focused on connecting all the classes and ensuring smooth interaction between components.
-   - Worked on the **Main** class, handling user input, routing, and error handling.
+   - Worked on the **Main** class, authentication, handling user input, routing, and error handling.
 
 6. **Akshit**:
    - Implemented the **Main** class and authentication system.
-   - Worked on exception handling, error detection, and validating user inputs (e.g., checking empty fields, invalid emails).
+   - Worked on exception handling, error detection, and validating user inputs (e.g., checking empty fields, and invalid emails).
 
 ---
 
