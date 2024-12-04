@@ -68,7 +68,6 @@ This project was developed by a team of 6 members, each contributing to differen
 
 2. **Abhay**:
    - Contributed to the **Admin** and **UserH** class designs.
-   - Assisted with user authentication and ensured proper login flow.
 
 3. **Komal**:
    - Developed the **Message** and **Group** classes.
@@ -81,10 +80,12 @@ This project was developed by a team of 6 members, each contributing to differen
 5. **Udit**:
    - Focused on connecting all the classes and ensuring smooth interaction between components.
    - Worked on the **Main** class, authentication, handling user input, routing, and error handling.
+   - Assisted with user authentication and ensured proper login flow.
 
 6. **Akshit**:
    - Implemented the **Main** class and authentication system.
    - Worked on exception handling, error detection, and validating user inputs (e.g., checking empty fields, and invalid emails).
+   - Unit testing
 
 ---
 
