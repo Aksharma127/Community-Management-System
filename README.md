@@ -67,7 +67,7 @@ This project was developed by a team of 6 members, each contributing to differen
    - Helped define the structure for user and Admin role management.
 
 2. **Abhay**:
-   - Contributed to the **Admin** and **UserH** class designs.
+   - Contributed to the **Admin** and **Member** class designs.
 
 3. **Komal**:
    - Developed the **Message** and **Group** classes.
